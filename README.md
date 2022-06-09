@@ -1,1 +1,7 @@
-vue 组件
+# 使用前
+请添加 border-box
+```
+*{
+    box-sizing: border-box
+}
+```
